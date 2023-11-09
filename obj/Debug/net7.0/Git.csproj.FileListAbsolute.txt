@@ -1,0 +1,14 @@
+C:\Users\55119\Videos\Git\bin\Debug\net7.0\Git.exe
+C:\Users\55119\Videos\Git\bin\Debug\net7.0\Git.deps.json
+C:\Users\55119\Videos\Git\bin\Debug\net7.0\Git.runtimeconfig.json
+C:\Users\55119\Videos\Git\bin\Debug\net7.0\Git.dll
+C:\Users\55119\Videos\Git\bin\Debug\net7.0\Git.pdb
+C:\Users\55119\Videos\Git\obj\Debug\net7.0\Git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\Videos\Git\obj\Debug\net7.0\Git.AssemblyInfoInputs.cache
+C:\Users\55119\Videos\Git\obj\Debug\net7.0\Git.AssemblyInfo.cs
+C:\Users\55119\Videos\Git\obj\Debug\net7.0\Git.csproj.CoreCompileInputs.cache
+C:\Users\55119\Videos\Git\obj\Debug\net7.0\Git.dll
+C:\Users\55119\Videos\Git\obj\Debug\net7.0\refint\Git.dll
+C:\Users\55119\Videos\Git\obj\Debug\net7.0\Git.pdb
+C:\Users\55119\Videos\Git\obj\Debug\net7.0\Git.genruntimeconfig.cache
+C:\Users\55119\Videos\Git\obj\Debug\net7.0\ref\Git.dll
