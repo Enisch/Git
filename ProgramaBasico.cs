@@ -250,7 +250,8 @@ class GitTeste
 
 
 }
-//PRograma para rosangela
+//Programa para rosangela no GIT e corrigida no VScode.
+
 
 
 
