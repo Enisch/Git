@@ -250,8 +250,7 @@ class GitTeste
 
 
 }
-//Programa para rosangela no GIT e corrigida no VScode.
-
+//Linha criada no GIT e corrigida no VScode.(Teste de Push e pull usando Vscode).
 
 
 
@@ -260,3 +259,4 @@ classes chamadas PessoaFisica e PessoaJuridica que herdem da classe Pessoa. A cl
 atributos privados o CPF e o nome da pessoa, enquanto a classe PessoaJuridica terá como atributos privados o
 CNPJ, a razão social e o nome fantasia. Crie métodos get e set para todos os atributos das três classes.
 */
+
